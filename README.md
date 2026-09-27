@@ -1,4 +1,4 @@
-# Resume
+# Resume/ Contact
 Overview of my work history and skills
 SEAN REDDING
 Cybersecurity Student | CompTIA CySA+
